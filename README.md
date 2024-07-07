@@ -1,5 +1,8 @@
 # AWS Text-to-Speech Conversion Application
 
+## Web Application Link
+http://ttsbucket444.s3-website.us-east-2.amazonaws.com/
+
 ## Objective
 Convert text posts into MP3 files using AWS services and expose them via RESTful web services.
 
