@@ -7,7 +7,7 @@ http://ttsbucket444.s3-website.us-east-2.amazonaws.com/
 Convert text posts into MP3 files using AWS services and expose them via RESTful web services.
 
 ## Architecture
-![Architecture Diagram](src/assets/architecture_diagram.png)
+![Architecture Diagram](diagram.png)
 
 ### Components
 - **Amazon S3**: Static web hosting and MP3 storage
