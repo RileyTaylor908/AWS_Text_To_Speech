@@ -4,7 +4,7 @@
 http://ttsbucket444.s3-website.us-east-2.amazonaws.com/
 
 ## Demo
-![](https://github.com/AWS_Text_To_Speech/demo.gif)
+![]([https://github.com/AWS_Text_To_Speech/demo.gif](https://github.com/RileyTaylor908/AWS_Text_To_Speech/blob/main/demo.gif))
 
 ## Objective
 Convert text posts into MP3 files using AWS services and expose them via RESTful web services.
